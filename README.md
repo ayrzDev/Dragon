@@ -44,7 +44,7 @@ The goal of this project is to develop a scalable and maintainable application u
 3. **Start the application**
 
    ```bash
-   php -S localhost:8000 -t public
+   php -S localhost:8000
    ```
 
 ## Project Structure
