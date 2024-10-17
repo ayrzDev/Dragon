@@ -1,3 +1,0 @@
-<?php
-
-$appName = 'OrionFramework';
